@@ -39,11 +39,21 @@ public class WeatherStation implements Subject{
 }
 
 public class Statsdisp  implements Observer{
-
+public void update(float temp, float humidity, float pressure){
+    display();
+  }
+public void display(){}
 }
 public class predict implements Observer{
-}
+public void update(float temp, float humidity, float pressure){
+    display();
+  }
+public void display(){}}
 
 public class humidity implements Observer{
+public void update(float temp, float humidity, float pressure){
+    display();
+  }
+public void display(){}
 
 }

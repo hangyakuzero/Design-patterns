@@ -37,3 +37,13 @@ public class WeatherStation implements Subject{
     notify();
   }
 }
+
+public class Statsdisp  implements Observer{
+
+}
+public class predict implements Observer{
+}
+
+public class humidity implements Observer{
+
+}

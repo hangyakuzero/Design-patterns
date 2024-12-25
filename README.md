@@ -7,7 +7,9 @@ creating this repo for practice and future reference
  * Proxy Pattern
  * logger Pattern
  * Adapter Pattern
-
+ * Template
+ * Obeserver
+ * Mediator
 
 ## What I want to Add
  detailed explanation on the java syntax and certain quirks and nuances of the language,etc
